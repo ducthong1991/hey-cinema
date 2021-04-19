@@ -44,7 +44,7 @@ const MovieContainer = () => {
               if (!!text) {
                 debouncedSearch(text)
               } else {
-                // dispatch({ type: 'onInit', data: data })
+                setMovies([])
               }
             }}
           />
