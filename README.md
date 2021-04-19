@@ -39,7 +39,7 @@ This project uses `react-testing-library` to test components with `jest`. You ma
 
 # Applications
 
-# Helvetica Neue Font isn't free so I use Exo
+## Helvetica Neue Font isn't free so I use Exo
 
 ## Urls
 
