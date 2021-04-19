@@ -39,6 +39,8 @@ This project uses `react-testing-library` to test components with `jest`. You ma
 
 # Applications
 
+# Helvetica Neue Font isn't free so I use Exo
+
 ## Urls
 
 - Default : default url of the application will be http://localhost:3000/movies
